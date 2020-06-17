@@ -1,0 +1,41 @@
+.main-illustration {
+  margin-top: 15px;
+  width: 90%;
+}
+
+#home-page h1.ant-typography {
+  text-align: center;
+  font-size: 84px;
+}
+
+#home-page h1.ant-typography span {
+  color: #ff993b;
+}
+#home-page .ant-input-group-wrapper {
+  width: 350px;
+}
+#home-page .ant-input {
+  border-bottom-left-radius: 50px;
+  border-top-left-radius: 50px;
+
+  padding: 20px;
+
+  font-size: 20px;
+}
+
+#home-page .ant-input:focus, #home-page .ant-input:hover {
+  border-color: #ff993b;
+}
+
+#home-page .ant-btn {
+  height: unset;
+  padding: 17px;
+
+  font-size: 24px;
+
+  border-color: #ff993b;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+
+  background-color: #ff993b;
+}
